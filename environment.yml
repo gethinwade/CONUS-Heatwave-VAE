@@ -1,0 +1,29 @@
+name: env_sci
+channels:
+  - defaults
+dependencies:
+  - bottleneck
+  - gcsfs
+  - xarray
+  - pandas
+  - matplotlib
+  - cartopy
+  - tqdm
+  - tensorboard
+  - flox
+  - jupyterlab
+  - scikit-learn
+  - tabulate
+  - dask
+  - scipy
+  - pytorch
+  - numpy
+  - pip
+  - pyyaml
+  - python=3.11
+  - ipykernel
+  - cftime
+  - h5netcdf
+  - zarr
+  - netcdf4
+prefix: /opt/miniconda3/envs/env_sci
